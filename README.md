@@ -49,3 +49,4 @@ Merge PDFs
 Extract Images from PDF
 Merge PDFs by Pages
 Exit Enter your choice (1-4): 1
+and so on....
